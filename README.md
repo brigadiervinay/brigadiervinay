@@ -1,4 +1,4 @@
-<h1 align="center">Namaskar 🙏🏼, I'm Vinay Kumar (विनय कुमार)</h1>
+<h1 align="center">Namaskar 🙏🏼, I'm Er. Vinay Kumar (विनय कुमार)</h1>
 <h3 align="center">A Passionate Explorer in the Data Analytics Domain! 📈</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brigadiervinay&label=Profile%20views&color=0e75b6&style=flat" alt="brigadiervinay" /> </p>
@@ -13,9 +13,9 @@
 
 - 📫 Reach out to me on: **vk390677@gmail.com**
 
-- 📋 My CV/Resume [https://bit.ly/3DrOfJN](https://bit.ly/3DrOfJN)
+- 📋 My CV/Resume: [https://bit.ly/3DrOfJN](https://bit.ly/3DrOfJN)
 
-- 🧘🏻‍♂️ My Interest & Hobbies: **Reading Books & News, Debating, Yoga & Meditation, Chess.**
+- 🧗‍♂️ My Interest & Hobbies: **Reading Books & News 📰, Public Speaking & Debating 🗣️ , Yoga & Meditation 🧘🏻‍♂️, Chess ♟️.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,8 +30,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/brigadiervinay"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="brigadiervinay" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brigadiervinay&show_icons=true&locale=en&layout=compact" alt="brigadiervinay" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brigadiervinay&show_icons=true&locale=en" alt="brigadiervinay" /></p>
 

@@ -9,11 +9,11 @@
 
 - 📝 I regularly write articles on [brigadiervinay.blogspot.com/](brigadiervinay.blogspot.com/)
 
-- 💬 Ask me about: **Data Analytics, MS Excel & Google Sheets.**
+- 💬 Ask me about: **Data Analytics: MS-Excel, Python 3, MySQL, Tablueau, Power BI**
 
-- 📫 Reach out to me on: **vk390677@gmail.com**
+- 📫 Reach out to me on: **vk390677@gmail.com | vinay.k82@yahoo.com | admiralvinay@rediffmail.com**
 
-- 📋 My CV/Resume: [https://bit.ly/3DrOfJN](https://bit.ly/3DrOfJN)
+- 📋 My CV/Resume: [https://bit.ly/3pKkVKi](https://bit.ly/3pKkVKi)
 
 - 🧗‍♂️ My Interest & Hobbies: **Reading Books & News 📰, Public Speaking & Debating 🗣️ , Yoga & Meditation 🧘🏻‍♂️, Chess ♟️.**
 

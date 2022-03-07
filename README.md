@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/brigadiervinay" target="blank"><img src="https://img.shields.io/twitter/follow/brigadiervinay?logo=twitter&style=for-the-badge" alt="brigadiervinay" /></a> </p>
 
-- 💡 I’m currently learning **Data Analysis: MS-Excel, SQL, R & Python, Tableau, Power BI**
+- 💡 I’m currently learning **Data Analysis: MS-Excel, SQL, R & Python, Tableau, Power BI Tools**
 
 - 📝 I regularly write articles on [brigadiervinay.blogspot.com/](brigadiervinay.blogspot.com/)
 
@@ -13,9 +13,9 @@
 
 - 📫 Reach out to me on: **vk390677@gmail.com | vinay.k82@yahoo.com | admiralvinay@rediffmail.com**
 
-- 📋 My CV/Resume: [https://bit.ly/3pKkVKi](https://bit.ly/3pKkVKi)
+- 📋 My Latest CV/Resume Link (G-Drive): [https://bit.ly/3pKkVKi](https://bit.ly/3pKkVKi)
 
-- 🧗‍♂️ My Interest & Hobbies: **Reading Books & News 📰, Public Speaking & Debating 🗣️ , Yoga & Meditation 🧘🏻‍♂️, Chess ♟️.**
+- 🧗‍♂️ My Interest & Hobbies: **Reading Books & News 📰, Public Speaking & Debating 🗣️ , Yoga & Meditation 🧘🏻‍♂️, Chess ♟️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
